@@ -29,8 +29,6 @@ var xhrFileMethod = function( url, data, headers ) {
             }
         }
 
-        formData.append( 'data', JSON.stringify( {fields: toPost} ) );
-
         xhr.send( formData );
     });
 
