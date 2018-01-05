@@ -1,5 +1,5 @@
 {
-  "name": "xhr-file",
+  "name": "xhr-dfile",
   "version": "1.0.0",
   "description": "Sent file request via post",
   "main": "src/index.js",
