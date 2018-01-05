@@ -1,0 +1,25 @@
+{
+  "name": "xhr-file",
+  "version": "1.0.0",
+  "description": "Sent file request via post",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daesnorey/xhr-file.git"
+  },
+  "keywords": [
+    "xhr",
+    "file",
+    "request",
+    "post"
+  ],
+  "author": "'Daniel <'daesnorey@gmail.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daesnorey/xhr-file/issues"
+  },
+  "homepage": "https://github.com/daesnorey/xhr-file#readme"
+}
