@@ -1,3 +1,5 @@
+var XMLHttpRequest = require('xmlhttprequest').XMLHttpRequest;
+
 var xhrFileMethod = function( url, data, headers ) {
     let promiseToReturn = new Promise((resolve, reject) => {
 
